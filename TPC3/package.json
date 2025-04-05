@@ -1,8 +1,11 @@
 {
-  "name": "tpc2",
+  "name": "tpc3",
   "version": "1.0.0",
-  "description": "Music School.",
-  "main": "server.js",
+  "description": "Students' Management.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node alunos_server.js"
+  },
   "author": "Rita Camacho",
   "license": "ISC",
   "dependencies": {
